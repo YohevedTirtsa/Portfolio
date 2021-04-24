@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="assets/css/main.css" />
         <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
         <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-        <link rel="icon" type="image/png" href="/images/favico.png" />
+        <link rel="icon" type="image/png" href="images/initiales.png" />
         <script src="https://kit.fontawesome.com/56607c9b74.js" crossorigin="anonymous"></script>
     </head>
 
